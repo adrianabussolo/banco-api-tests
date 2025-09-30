@@ -1,2 +1,3 @@
 node-modules/
 mochawesome-report/
+.env
